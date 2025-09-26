@@ -11,7 +11,7 @@ Notebook içerisinde sürecin teknik anlatımları Markdown hücrelerinde yer al
 Modelin performans değerlendirmesi için şu metrikler kullanılmıştır:
 Eğitim ve doğrulama için accuracy/loss grafikleri
 Confusion Matrix ve classification report (precision, recall, F1-score)
-Modelin nihai doğrulama başarımı: %XX accuracy ve F1: YY
+Modelin nihai doğrulama başarımı: %77.80 accuracy ve F1: 0.7775
 Ayrıca modelin karar mekanizmasını anlamak amacıyla Grad-CAM görselleştirmeleri eklenmiştir. Bu sayede modelin hangi bölgeleri dikkate alarak sınıflandırma yaptığı gözlemlenmiştir.
 # Ekler
 Grad-CAM görselleştirmeleri: Doğru ve hatalı sınıflandırmalardan örnekler.
